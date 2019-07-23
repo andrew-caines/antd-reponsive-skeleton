@@ -82,7 +82,7 @@ function App() {
               <Menu.Item key="/delivery-app"><Icon type="car" /> Delivery App</Menu.Item>
             </Menu.ItemGroup>
             <Menu.ItemGroup>
-              <Menu.Item key="/kio-app"><KioIcon  /> K.I.O</Menu.Item>
+              <Menu.Item key="/kio-app"><KioIcon /> K.I.O</Menu.Item>
             </Menu.ItemGroup>
           </SubMenu>
           <Menu.Item key="/videos">
@@ -113,7 +113,7 @@ function App() {
           </Suspense>
 
         </Content>
-        <Footer style={{ textAlign: 'center' }}>Ant Design ©2018 Created by Ant UED</Footer>
+        <Footer style={{ textAlign: 'center' }}>Andrew Caines ©2019</Footer>
       </Layout>
     </Layout>
   );
